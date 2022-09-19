@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    
+
     public void clickFunc(View view){
         EditText in = (EditText) findViewById(R.id.input);
         EditText out = (EditText) findViewById(R.id.output);
